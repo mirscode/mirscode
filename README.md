@@ -1,16 +1,22 @@
-### Hi there 👋
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mirahmed753/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mirscode.hashnode.dev/">
+    <img src="https://img.shields.io/badge/-hashnode-white?style=for-the-badge&logo=hashnode&logoColor=blue" alt="Hashnode Badge"/>
+  </a>
+  <a href="https://twitter.com/themircules">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<!--
-**mirscode/mirscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Mir 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a data-driven Software Engineer focused on delivering the best user experiences on Mobile devices. I'm currently an iOS Engineer at Webex Teams where my list of responsibilities include:
+- 🔧 Writing programmatic UI for iPhone/iPad using Swift (UIKit + SwiftUI)
+- 🧰 Working on our shared multi-platform (Android/iOS/Mac/Win) codebase in C++
+- 〰️ Building metrics dashboards and discussing product vision with core leadership
+- ⚡ Reviewing a lot of Pull Requests
+-------
+#### I'M WORKING ON:
+* ✍️ ByMiguel, a quotes application allowing users to view curated motivational messages and add their own messages to establish positive reinforcement.
