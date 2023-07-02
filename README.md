@@ -20,4 +20,4 @@ I'm a data-driven Software Engineer focused on delivering the best user experien
 -------
 #### I'M WORKING ON:
 * 🧍[StandSmart](https://mirscode.super.site/featured-projects/standsmart), a timer application equipped with daily/weekly metrics that helps you improve your posture, combat illness, and maintain a healthier lifestyle by sending you reminders to stand up throughout the day.
-* ✍️ ByMiguel, a quotes application allowing users to view curated motivational messages and add their own messages to establish positive reinforcement.
+* ✍️ [ByMiguel](https://mirscode.super.site/featured-projects/bymiguel), a quotes application allowing users to view curated motivational messages and add their own messages to establish positive reinforcement.
